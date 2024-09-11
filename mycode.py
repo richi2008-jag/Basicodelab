@@ -4,4 +4,9 @@ def hello_world():
         print("50 dollars")
     else:
         print("0 dollars") 
-hello_world()
+hello_world() 
+
+
+def greet(name):
+    print(f"Hello, {name}!") 
+
